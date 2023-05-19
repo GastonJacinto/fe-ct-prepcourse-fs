@@ -99,3 +99,7 @@
 
 // var pincha = "String";
 // pincha.reverse();
+
+
+// var string = "Hola";  LAS COMILLAS GRAVES SON ALT + BOTON QUE ESTA A LA IZQ. DE ENTER
+// console.log( `${string} me llamo Gaston`);
