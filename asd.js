@@ -103,3 +103,17 @@
 
 // var string = "Hola";  LAS COMILLAS GRAVES SON ALT + BOTON QUE ESTA A LA IZQ. DE ENTER
 // console.log( `${string} me llamo Gaston`);
+
+// ....................PASAR PRIMERA LETRA A MAYUSCULA..........................
+// let nombre = "gaston";
+
+// nombre.charAt(0).toUpperCase();
+// console.log(nombre);
+
+// var okey =  nombre.charAt(0).toUpperCase() + nombre.slice(1);
+
+// console.log(okey);
+
+// let cadena = 'avasascasdascasdascasdabbbbbAAAAA';
+
+// console.log(cadena.replace(/[abc]/ig, ""));

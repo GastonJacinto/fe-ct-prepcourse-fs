@@ -44,6 +44,7 @@ function sumarArray(arrayOfNumbers, cb) {
    let suma = 0;
 
    for (let i = 0; i < arrayOfNumbers.length; i++) {
+
       suma = suma + arrayOfNumbers[i];
       
    }
@@ -86,7 +87,9 @@ function filter(arrayOfStrings) {
    // Debes identificar todos los elementos el arreglo que comiencen con la letra "a".
    // Luego retorna un nuevo arreglo con estos elementos.
    // Tu código:
+
 let nuevoArreglo = [];
+
    for (let i = 0; i < arrayOfStrings.length; i++) {
       
       let stringArreglo = arrayOfStrings[i].split("");
